@@ -2,7 +2,7 @@
   "pet_id": "niko",
   "display_name": "Niko",
   "description": "A modern pixel-art chibi pet inspired by the esports player Niko.",
-  "created_at": "2026-07-15T10:02:49.062691+00:00",
+  "created_at": "2026-07-15T10:05:26.589305+00:00",
   "sprite_version_number": 2,
   "atlas": {
     "columns": 8,
@@ -276,15 +276,14 @@
     }
   ],
   "chroma_key": {
-    "hex": "#0000FF",
+    "hex": "#FF00FF",
     "rgb": [
-      0,
+      255,
       0,
       255
     ],
-    "name": "blue",
-    "selection": "auto",
-    "score": 212.09
+    "name": "user-selected",
+    "selection": "manual"
   },
   "pet_notes": "Modern hard-edged pixel-art chibi adult male with swept medium-brown hair, neat full brown beard, blue eyes, simplified green-and-white geometric jersey, plain black athletic pants without symbols, and white sneakers. Compact readable silhouette. No text or detailed logos. No medal except as a worn attached prop in the waving celebration row.",
   "style_preset": "pixel",

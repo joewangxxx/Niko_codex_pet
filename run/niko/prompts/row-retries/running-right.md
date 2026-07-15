@@ -1,4 +1,4 @@
-Create Codex pet row `running-right` for `niko`: exactly 8 full-body frames in one horizontal strip on flat pure blue #0000FF.
+Create Codex pet row `running-right` for `niko`: exactly 8 full-body frames in one horizontal strip on flat pure user-selected #FF00FF.
 
 Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: Modern hard-edged pixel-art chibi adult male with swept medium-brown hair, neat full brown beard, blue eyes, simplified green-and-white geometric jersey, plain black athletic pants without symbols, and white sneakers. Compact readable silhouette. No text or detailed logos. No medal except as a worn attached prop in the waving celebration row.. Preserve silhouette, face, palette, material, proportions, markings, and props.
 
@@ -12,4 +12,4 @@ State requirements:
 - The movement cadence must alternate visibly across the 8 frames instead of repeating one nearly static stride.
 - Do not draw speed lines, dust clouds, floor shadows, motion trails, or detached motion effects.
 
-One centered complete pose per invisible slot. No text, boxes, guide marks, scenery, shadows, glows, motion blur, speed lines, dust, detached effects, stray pixels, or #0000FF colors in the pet.
+One centered complete pose per invisible slot. No text, boxes, guide marks, scenery, shadows, glows, motion blur, speed lines, dust, detached effects, stray pixels, or #FF00FF colors in the pet.
