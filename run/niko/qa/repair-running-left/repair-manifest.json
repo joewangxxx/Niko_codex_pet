@@ -1,0 +1,19 @@
+{
+  "ok": true,
+  "created_at": "2026-07-17T06:26:31.289301+00:00",
+  "source_atlas": "C:\\Users\\29929\\Desktop\\codex_pets_Niko\\run\\niko\\final\\spritesheet-extended.webp",
+  "source_sha256": "a24336ced1aec31c509e5c24582132d4b08903facc55d55d5ecca16428879707",
+  "output_png": "C:\\Users\\29929\\Desktop\\codex_pets_Niko\\run\\niko\\qa\\repair-running-left\\spritesheet-extended-repaired.png",
+  "output_webp": "C:\\Users\\29929\\Desktop\\codex_pets_Niko\\run\\niko\\qa\\repair-running-left\\spritesheet-extended-repaired.webp",
+  "output_webp_sha256": "b6a4e644f53a072638f366b783f812e8154132f65001357f8f421a576eeea07b",
+  "repaired_row": "running-left",
+  "row_index": 2,
+  "derivation": "framewise-horizontal-mirror-of-final-running-right-cells",
+  "frame_order_preserved": true,
+  "frame_count": 8,
+  "webp_options": {
+    "lossless": true,
+    "method": 6,
+    "exact": true
+  }
+}

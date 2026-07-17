@@ -1,0 +1,134 @@
+{
+    "ok":  true,
+    "reviewed_by":  "independent row QA workers plus independent final visual QA worker",
+    "directions":  [
+                       {
+                           "degree":  "000",
+                           "verdict":  "pass",
+                           "expected":  "up",
+                           "observed":  "Clear upward gaze with frontal grounded stance.",
+                           "reason":  "Both blue eyes aim above center, brows lift, chin rises slightly, and nose remains centered; hard-gate pose matches the approved 000 anchor."
+                       },
+                       {
+                           "degree":  "022.5",
+                           "verdict":  "pass",
+                           "expected":  "up-right",
+                           "observed":  "Subtle up-right three-quarter gaze.",
+                           "reason":  "Eyes remain elevated while pupils, nose, and head begin moving screen-right; feet and baseline remain registered to 000."
+                       },
+                       {
+                           "degree":  "045",
+                           "verdict":  "pass",
+                           "expected":  "up-right",
+                           "observed":  "Balanced up-right three-quarter turn.",
+                           "reason":  "Elevated eyes combine with a clearer screen-right nose and head yaw; hair, shoulders, torso, and occlusion advance naturally."
+                       },
+                       {
+                           "degree":  "067.5",
+                           "verdict":  "pass",
+                           "expected":  "up-right",
+                           "observed":  "Near-profile up-right gaze.",
+                           "reason":  "Nose and visible eye lead strongly screen-right while retaining an upward pitch; body scale, lower anchor, and feet remain stable."
+                       },
+                       {
+                           "degree":  "090",
+                           "verdict":  "pass",
+                           "expected":  "screen-right",
+                           "observed":  "Unmistakable screen-right profile.",
+                           "reason":  "Nose tip, visible eye, facial contour, head yaw, and shoulder plane all point toward the image-right edge; hard-gate pose matches the approved 090 anchor."
+                       },
+                       {
+                           "degree":  "112.5",
+                           "verdict":  "pass",
+                           "expected":  "down-right",
+                           "observed":  "Profile begins pitching down-right.",
+                           "reason":  "Rightward nose and profile are preserved while the eye, eyelid, brow, and chin move downward; no scale or registration jump from 090."
+                       },
+                       {
+                           "degree":  "135",
+                           "verdict":  "pass",
+                           "expected":  "down-right",
+                           "observed":  "Clear three-quarter down-right gaze.",
+                           "reason":  "Top-of-head visibility and lowered eyes establish down while the face and nose remain screen-right; identity and grounded lower body stay intact."
+                       },
+                       {
+                           "degree":  "157.5",
+                           "verdict":  "pass",
+                           "expected":  "down-right",
+                           "observed":  "Near-down pose retaining a subtle rightward cue.",
+                           "reason":  "Eyes and tucked chin read strongly downward, with remaining rightward facial asymmetry completing the ordered approach toward 180."
+                       },
+                       {
+                           "degree":  "180",
+                           "verdict":  "pass",
+                           "expected":  "down",
+                           "observed":  "Clear centered downward gaze.",
+                           "reason":  "Both blue eyes sit low, eyelids and brows angle down, chin tucks, and extra top-of-hair surface is visible; the grounded frontal body matches the approved 180 hard gate."
+                       },
+                       {
+                           "degree":  "202.5",
+                           "verdict":  "pass",
+                           "expected":  "down-left",
+                           "observed":  "Subtle down-left three-quarter gaze.",
+                           "reason":  "Lowered eyes and tucked chin preserve the downward axis while nose, facial plane, and head yaw begin moving screen-left; feet and baseline remain fixed."
+                       },
+                       {
+                           "degree":  "225",
+                           "verdict":  "pass",
+                           "expected":  "down-left",
+                           "observed":  "Balanced down-left three-quarter turn.",
+                           "reason":  "Eye line and chin remain lowered while the nose and visible facial contour lead farther screen-left; hair, shoulders, and torso advance gradually without identity drift."
+                       },
+                       {
+                           "degree":  "247.5",
+                           "verdict":  "pass",
+                           "expected":  "down-left",
+                           "observed":  "Near-profile down-left gaze.",
+                           "reason":  "The nose and visible eye point strongly toward the image-left edge while lowered eyelids and head pitch retain a clear downward component; scale and lower-body registration stay stable."
+                       },
+                       {
+                           "degree":  "270",
+                           "verdict":  "pass",
+                           "expected":  "screen-left",
+                           "observed":  "Unmistakable screen-left profile.",
+                           "reason":  "Nose tip, visible eye, facial contour, head yaw, and shoulder plane all face the image-left edge, opposing the approved 090 pose and matching the approved 270 hard gate."
+                       },
+                       {
+                           "degree":  "292.5",
+                           "verdict":  "pass",
+                           "expected":  "up-left",
+                           "observed":  "Left profile beginning to pitch upward.",
+                           "reason":  "The nose and facial plane remain screen-left while the eye, brow, chin, and head angle rise; upright legs and planted feet rule out whole-sprite rotation."
+                       },
+                       {
+                           "degree":  "315",
+                           "verdict":  "pass",
+                           "expected":  "up-left",
+                           "observed":  "Clear three-quarter up-left gaze.",
+                           "reason":  "Elevated blue eyes and lifted chin establish up while nose placement and facial asymmetry remain screen-left; hair and shoulders follow continuously."
+                       },
+                       {
+                           "degree":  "337.5",
+                           "verdict":  "pass",
+                           "expected":  "up-left",
+                           "observed":  "Near-up pose retaining a subtle leftward cue.",
+                           "reason":  "Both eyes aim high and the chin lifts, while remaining screen-left nose and cheek asymmetry complete the ordered approach to 000 without reversal."
+                       }
+                   ],
+    "continuity":  [
+                       {
+                           "verdict":  "pass",
+                           "reason":  "All adjacent pairs progress smoothly from up through screen-right toward down-right using ordered eye, eyelid, brow, nose, head, hair, and shoulder changes; scale, baseline, feet, pixel identity, and lower-body registration remain stable with no clipping, edge contact, overlap, whole-sprite rotation, replacement eyes, snap, reversal, or wrong-quadrant pose."
+                       },
+                       {
+                           "verdict":  "pass",
+                           "reason":  "All row-10 neighbors progress smoothly from down through screen-left to up-left with stable pixel identity, scale, baseline, feet, eye construction, and lower-body anchor; 157.5-\u003e180 closes from slight down-right to centered down in one step, and 337.5-\u003e000 closes from slight up-left to centered up in one step, with no clipping, edge contact, overlap, snap, whole-sprite rotation, wrong quadrant, or reversal."
+                       }
+                   ],
+    "final_visual_qa":  "pass",
+    "review_warnings":  [
+                            "090-\u003e112.5 metric diff/center shift accepted: coherent pitch-down with grounded feet.",
+                            "157.5-\u003e180 metric diff/center shift accepted: smooth down-right to centered-down transition with stable baseline.",
+                            "337.5-\u003e000 metric diff/center shift/area ratio accepted: natural three-quarter up-left to frontal-up opening without visible pop or reversal."
+                        ]
+}

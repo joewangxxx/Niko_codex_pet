@@ -1,0 +1,260 @@
+{
+  "atlas": "C:\\Users\\29929\\.codex\\pets\\niko\\spritesheet.webp",
+  "size": [
+    1536,
+    2288
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "left_components_a16": [
+        {
+          "area": 13163,
+          "bbox": [
+            39,
+            5,
+            153,
+            203
+          ]
+        }
+      ],
+      "right_components_a16": [
+        {
+          "area": 13413,
+          "bbox": [
+            34,
+            5,
+            158,
+            203
+          ]
+        }
+      ],
+      "byte_diffs_vs_mirrored_right": 49075,
+      "left_sha256": "c8067b8a45e4fb774716c978ff298b740fcb872f4f23ada6cc1ae780e7cfa3f3",
+      "mirrored_right_sha256": "d719dae2652a535dcade07331aeb752993cdf4e367dde029972614f4830f4829"
+    },
+    {
+      "frame": 1,
+      "left_components_a16": [
+        {
+          "area": 12576,
+          "bbox": [
+            39,
+            5,
+            153,
+            203
+          ]
+        }
+      ],
+      "right_components_a16": [
+        {
+          "area": 12891,
+          "bbox": [
+            34,
+            5,
+            158,
+            203
+          ]
+        }
+      ],
+      "byte_diffs_vs_mirrored_right": 47432,
+      "left_sha256": "669ee2485a0ceeb3b78b11ab2d8e19d01fdd08b09d2226bc9b2d0a94110d7209",
+      "mirrored_right_sha256": "03f827705ccc0562a835fc0d0df589e55efcef4a7331195e1c5eca8ebc567c1f"
+    },
+    {
+      "frame": 2,
+      "left_components_a16": [
+        {
+          "area": 12112,
+          "bbox": [
+            45,
+            5,
+            152,
+            203
+          ]
+        },
+        {
+          "area": 182,
+          "bbox": [
+            40,
+            95,
+            50,
+            117
+          ]
+        }
+      ],
+      "right_components_a16": [
+        {
+          "area": 12031,
+          "bbox": [
+            43,
+            5,
+            148,
+            203
+          ]
+        }
+      ],
+      "byte_diffs_vs_mirrored_right": 42045,
+      "left_sha256": "2aafb36e6916b6818d3a4ba5f3360647464feca53d6c1b221c5d2cd5fea27fe9",
+      "mirrored_right_sha256": "7e22b34aafb27ec8876766097ee7e281d29760abea22d3f71ff3d79f080e8ccd"
+    },
+    {
+      "frame": 3,
+      "left_components_a16": [
+        {
+          "area": 12870,
+          "bbox": [
+            33,
+            5,
+            158,
+            203
+          ]
+        }
+      ],
+      "right_components_a16": [
+        {
+          "area": 12786,
+          "bbox": [
+            34,
+            5,
+            158,
+            203
+          ]
+        }
+      ],
+      "byte_diffs_vs_mirrored_right": 17110,
+      "left_sha256": "15bfcc4fc0821cbb26d0eb40363ff4ece35119e94817d316eaac9d794186f37f",
+      "mirrored_right_sha256": "b60e1b5fcd18cd472629eaf243b881fcdff2d3230bfc350039a261162d666eec"
+    },
+    {
+      "frame": 4,
+      "left_components_a16": [
+        {
+          "area": 11994,
+          "bbox": [
+            37,
+            5,
+            154,
+            203
+          ]
+        }
+      ],
+      "right_components_a16": [
+        {
+          "area": 11990,
+          "bbox": [
+            39,
+            5,
+            152,
+            203
+          ]
+        }
+      ],
+      "byte_diffs_vs_mirrored_right": 39075,
+      "left_sha256": "2e54de69ad8230e1d61a677815f99d48daa014b253d8e6305233fd865c11be4f",
+      "mirrored_right_sha256": "40cb8a5c99a0624c8a5fd74d2390de86f13ced93a52f4e49e24d48f0f1c413c6"
+    },
+    {
+      "frame": 5,
+      "left_components_a16": [
+        {
+          "area": 12146,
+          "bbox": [
+            57,
+            5,
+            162,
+            203
+          ]
+        },
+        {
+          "area": 165,
+          "bbox": [
+            30,
+            92,
+            40,
+            115
+          ]
+        },
+        {
+          "area": 47,
+          "bbox": [
+            36,
+            19,
+            40,
+            35
+          ]
+        }
+      ],
+      "right_components_a16": [
+        {
+          "area": 12099,
+          "bbox": [
+            44,
+            5,
+            148,
+            203
+          ]
+        }
+      ],
+      "byte_diffs_vs_mirrored_right": 54617,
+      "left_sha256": "aedf1ae1dfd63de043ed2d40caae05363a3382079ea704f3df6fdc544d422823",
+      "mirrored_right_sha256": "389ae9dfd1ca1fb38df0476ef2dfb4323810fe469a0e3f9468684d1ecce2238a"
+    },
+    {
+      "frame": 6,
+      "left_components_a16": [
+        {
+          "area": 11719,
+          "bbox": [
+            35,
+            5,
+            156,
+            203
+          ]
+        }
+      ],
+      "right_components_a16": [
+        {
+          "area": 11664,
+          "bbox": [
+            35,
+            5,
+            157,
+            203
+          ]
+        }
+      ],
+      "byte_diffs_vs_mirrored_right": 30355,
+      "left_sha256": "d5d4999a181b805b4fb0f614c54682bbe850034a50629261bea0a92c4d5c650c",
+      "mirrored_right_sha256": "52b58ac3802b2082d91fb25710a3bc3d8968798b2fa1ca6cd98861e60b09bc17"
+    },
+    {
+      "frame": 7,
+      "left_components_a16": [
+        {
+          "area": 12269,
+          "bbox": [
+            45,
+            5,
+            147,
+            203
+          ]
+        }
+      ],
+      "right_components_a16": [
+        {
+          "area": 12269,
+          "bbox": [
+            45,
+            5,
+            147,
+            203
+          ]
+        }
+      ],
+      "byte_diffs_vs_mirrored_right": 0,
+      "left_sha256": "43d48238f1f5f3cd53627549f1222cea15ea9e6dd4e652746f74857b1e0226c1",
+      "mirrored_right_sha256": "43d48238f1f5f3cd53627549f1222cea15ea9e6dd4e652746f74857b1e0226c1"
+    }
+  ]
+}

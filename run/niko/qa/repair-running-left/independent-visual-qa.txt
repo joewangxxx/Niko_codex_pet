@@ -1,0 +1,4 @@
+visual_qa=pass
+qa_note=左跑8帧均面向屏幕左侧、交替步态连贯，无悬浮碎片、裁切或可见弹跳；其余行与16个看向均视觉一致。
+repair_rows=none
+repair_notes=none

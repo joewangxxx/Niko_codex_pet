@@ -1,0 +1,19 @@
+{
+  "ok": true,
+  "pet_id": "niko",
+  "spriteVersionNumber": 2,
+  "repaired_row": "running-left",
+  "derivation": "framewise-horizontal-mirror-of-final-running-right-cells",
+  "frame_order_preserved": true,
+  "spritesheet": "C:/Users/29929/Desktop/codex_pets_Niko/run/niko/final/spritesheet-extended.webp",
+  "installed_spritesheet": "C:/Users/29929/.codex/pets/niko/spritesheet.webp",
+  "installed_sha256": "B6A4E644F53A072638F366B783F812E8154132F65001357F8F421A576EEEA07B",
+  "workspace_backup": "C:/Users/29929/Desktop/codex_pets_Niko/run/niko/final/spritesheet-extended.pre-running-left-repair.webp",
+  "installed_backup": "C:/Users/29929/.codex/pets/niko/spritesheet.pre-running-left-repair.webp",
+  "regression_test": "C:/Users/29929/Desktop/codex_pets_Niko/run/niko/tests/test_running_left_repair.py",
+  "validation": "C:/Users/29929/Desktop/codex_pets_Niko/run/niko/qa/repair-running-left/validation-installed-repaired.json",
+  "contact_sheet": "C:/Users/29929/Desktop/codex_pets_Niko/run/niko/qa/repair-running-left/contact-sheet-repaired.png",
+  "running_left_preview": "C:/Users/29929/Desktop/codex_pets_Niko/run/niko/qa/repair-running-left/running-left-repaired.gif",
+  "visual_qa": "C:/Users/29929/Desktop/codex_pets_Niko/run/niko/qa/repair-running-left/independent-visual-qa.txt",
+  "look_continuity": "C:/Users/29929/Desktop/codex_pets_Niko/run/niko/qa/repair-running-left/look-continuity-repaired.json"
+}
